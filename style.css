@@ -1,1 +1,28 @@
-/* comments
+/* comments */
+
+*body{
+    width: 90%;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+  
+    font-size: 20px;
+}
+
+#picture-profile{
+  width: 100px;
+  height: 110px;
+
+}
+
+footer{
+    background-color: #111b3b;
+    height: 200px;
+    padding: 10px;
+    margin: 0;
+}
